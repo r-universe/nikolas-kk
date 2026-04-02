@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "TPXG"]
 	path = TPXG
-	url = https://github.com/nikolas-kk/tpxg
+	url = https://github.com/cran/TPXG
 [submodule "nnsolve"]
 	path = nnsolve
 	url = https://github.com/nikolas-kk/nnsolve
